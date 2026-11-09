@@ -6,3 +6,4 @@ Writeups for capture-the-flag challenges I've solved.
 |-----------|----------|---------|
 | Bart | Linux privilege pivot, XOR secret sharing | [bart/README.md](bart/README.md) |
 | Merkle Tree Tampering | Cryptography | [merkle-tree/README.md](merkle-tree/README.md) |
+| Beginner Network Security (TryHackMe) | Network security, enumeration | [network-security/README.md](network-security/README.md) |
