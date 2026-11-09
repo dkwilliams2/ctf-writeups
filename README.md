@@ -1,10 +1,10 @@
-# 🚩 CTF Writeups
+# CTF Writeups
 
 Step-by-step writeups of capture-the-flag (CTF) and TryHackMe challenges I've solved. Each one explains my methodology, the exact commands I ran, and the security lessons behind the challenge, not just the answer.
 
 ---
 
-## 📂 Writeups
+## Writeups
 
 | Challenge | Category | Key techniques | Writeup |
 |-----------|----------|----------------|---------|
@@ -14,7 +14,7 @@ Step-by-step writeups of capture-the-flag (CTF) and TryHackMe challenges I've so
 
 ---
 
-## 🛠️ Skills demonstrated
+## Skills demonstrated
 
 - **Linux privilege escalation:** finding and abusing SUID/SGID binaries to pivot between user accounts
 - **Enumeration:** scanning networks and filesystems, and working around broken tools when results don't add up
@@ -23,13 +23,13 @@ Step-by-step writeups of capture-the-flag (CTF) and TryHackMe challenges I've so
 - **Scripting:** writing Python one-liners and scripts to automate analysis and brute-force small keyspaces
 - **Defensive thinking:** each writeup explains what was misconfigured and how to fix it
 
-## 🧰 Tools used
+## Tools used
 
 `nmap` · `ftp` · `ssh` · `bash` · `python3` · `sha256sum` · `ls` / `awk` / `grep` · `hashlib`
 
 ---
 
-## 📝 Writeup format
+## Writeup format
 
 Every writeup follows the same structure:
 
@@ -41,4 +41,4 @@ Every writeup follows the same structure:
 
 ---
 
-> ⚠️ All challenges were solved in legal, intentionally vulnerable training environments, and all flags are from competitions or rooms that have ended.
+> **Note:** All challenges were solved in legal, intentionally vulnerable training environments, and all flags are from competitions or rooms that have ended.
